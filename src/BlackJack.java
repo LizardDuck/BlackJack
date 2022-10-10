@@ -1,4 +1,7 @@
 //10/10/22 test!!
+// There's a ton wrong with this program.
+// Will re-make at a later date
+//
 
 import java.util.Collections;
 import java.util.ArrayList;
